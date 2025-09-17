@@ -5,4 +5,7 @@ This Porject is made to create a machine learning recommendation model for anime
 
 ##Porject Requirements
 
-###DataSet
+###DataSet 
+
+The dataset used in this Porject is from kaggle: (https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset).
+
