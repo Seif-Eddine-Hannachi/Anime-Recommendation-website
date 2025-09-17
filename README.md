@@ -5,8 +5,12 @@ This Porject is made to create a machine learning recommendation model for anime
 
 ##Learning Objectives
 
+-Understanding the theory and application of recommending models in Python.
+-Learn to load, analyze and process data using different python libraries: Pandas, Numpy, Matplotlib, Seaborn, sktlearn, TensorFlow etc.
+-Develop a collaborative filtering model using TensorFlow.
+-Evaluate the model's performance and recommendation. 
 
-##Porject Requirements
+###Porject Requirements
 
 ###DataSet 
 
@@ -18,8 +22,6 @@ The datasets used in this Porject is from kaggle: (https://www.kaggle.com/datase
 
 -**user-score-2023.csv**:The User Score Dataset enables various analyses and insights into user interactions with anime. By examining user ratings for different anime titles, you can identify highly-rated and popular anime among users. Additionally, you can explore user preferences and watch patterns for specific anime titles. This dataset also forms the foundation for building recommendation systems based on user ratings, helping to suggest anime that align with individual tastes. Furthermore, you can perform collaborative filtering and similarity analysis to discover patterns of similar user interests. Overall, this dataset offers valuable information for understanding user engagement and preferences on the anime platform.
 
-#### TensorFlow Model
 
-I have used multiple python  libraries to analyse the dataset, clean it and prepare it to run it with a Tensorflow Model 
 
 
